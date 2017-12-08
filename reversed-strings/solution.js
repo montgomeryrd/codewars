@@ -4,7 +4,7 @@ function solution(str){
   return str.split('').reverse().join('');
 }
 
-// or
+// or //
 
 function solution(str){
   let arr = [];
