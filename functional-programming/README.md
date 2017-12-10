@@ -15,3 +15,7 @@ filter_list([1,'a','b',0,15]) == [1,0,15]
 filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
 
 https://www.codewars.com/kata/list-filtering/javascript
+
+Write function avg which calculates average of numbers in given list.
+
+https://www.codewars.com/kata/calculate-average/train/javascript
